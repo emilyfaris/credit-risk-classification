@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-In this project, I trained and evaluatd a logistic regression model based on loan risk. The dataset included features such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. These features were used to build a logistic regression model to predict the loan status as either healthy or high-risk. The results indicate that the model is highly effective and can significantly aid the company in making informed lending decisions.
+In this project, I trained and evaluated a logistic regression model based on loan risk. The dataset included features such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. These features were used to build a logistic regression model to predict the loan status as either healthy or high-risk. The results indicate that the model is highly effective and can significantly aid the company in making informed lending decisions.
 
 ## Credit Risk Analysis
 
